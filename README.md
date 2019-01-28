@@ -2,7 +2,7 @@
 ### Description
 Learning how to correctly call an api and run tests on it
 
-### Challenges (you can include images and code block here)
+### Challenges 
 1. struggled a bit due to missing the lessons for this homewoek
 
 
